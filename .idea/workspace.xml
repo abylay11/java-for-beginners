@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 5. For loop in Java.">
-      <change afterPath="$PROJECT_DIR$/src/lesson6/If.java" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 6. Conditional if statement.">
+      <change afterPath="$PROJECT_DIR$/src/lesson7/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +42,7 @@
     "Application.ForLoop.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.If.executor": "Run",
+    "Application.Input.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Strings.executor": "Run",
     "Application.Variables.executor": "Run",
@@ -68,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703951097392</updated>
       <workItem from="1703951098393" duration="1182000" />
-      <workItem from="1704020851384" duration="4733000" />
+      <workItem from="1704020851384" duration="5358000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <option name="closed" value="true" />
@@ -134,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704027676357</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Lesson 6. Conditional if statement.">
+      <option name="closed" value="true" />
+      <created>1704028068968</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1704028068968</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,6 +170,7 @@
     <MESSAGE value="Lesson 3. Strings in Java. Reference data types." />
     <MESSAGE value="Lesson 4. While loop in Java." />
     <MESSAGE value="Lesson 5. For loop in Java." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 5. For loop in Java." />
+    <MESSAGE value="Lesson 6. Conditional if statement." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 6. Conditional if statement." />
   </component>
 </project>
