@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 8. 'Do while' loop.">
-      <change afterPath="$PROJECT_DIR$/src/lesson9/Break_Continue.java" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 9. Break and continue operators.">
+      <change afterPath="$PROJECT_DIR$/src/lesson10/Switch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +60,7 @@
     "Application.Input.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Strings.executor": "Run",
+    "Application.Switch.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.WhileLoops.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -85,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1703951097392</updated>
       <workItem from="1703951098393" duration="1182000" />
-      <workItem from="1704020851384" duration="6878000" />
+      <workItem from="1704020851384" duration="7533000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <option name="closed" value="true" />
@@ -175,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704032149318</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Lesson 9. Break and continue operators.">
+      <option name="closed" value="true" />
+      <created>1704032644500</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704032644500</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,6 +213,7 @@
     <MESSAGE value="Lesson 6. Conditional if statement." />
     <MESSAGE value="Lesson 7. Data entry. Class Scanner." />
     <MESSAGE value="Lesson 8. 'Do while' loop." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 8. 'Do while' loop." />
+    <MESSAGE value="Lesson 9. Break and continue operators." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 9. Break and continue operators." />
   </component>
 </project>
