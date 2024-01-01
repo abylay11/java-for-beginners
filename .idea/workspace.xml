@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 11. Arrays in Java.">
-      <change afterPath="$PROJECT_DIR$/src/lesson12/Arrays_of_Strings.java" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 12. Loop for each. Arrays of strings.">
+      <change afterPath="$PROJECT_DIR$/src/lesson13/Multidimensional_Arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     "Application.If.executor": "Run",
     "Application.Input.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.Multidimensional_Arrays.executor": "Run",
     "Application.Strings.executor": "Run",
     "Application.Switch.executor": "Run",
     "Application.Variables.executor": "Run",
@@ -97,7 +98,7 @@
       <updated>1703951097392</updated>
       <workItem from="1703951098393" duration="1182000" />
       <workItem from="1704020851384" duration="7533000" />
-      <workItem from="1704066501351" duration="3069000" />
+      <workItem from="1704066501351" duration="3706000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <option name="closed" value="true" />
@@ -203,7 +204,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704068485053</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Lesson 12. Loop for each. Arrays of strings.">
+      <option name="closed" value="true" />
+      <created>1704070404511</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704070404511</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +243,7 @@
     <MESSAGE value="Lesson 8. 'Do while' loop." />
     <MESSAGE value="Lesson 9. Break and continue operators." />
     <MESSAGE value="Lesson 11. Arrays in Java." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 11. Arrays in Java." />
+    <MESSAGE value="Lesson 12. Loop for each. Arrays of strings." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 12. Loop for each. Arrays of strings." />
   </component>
 </project>
