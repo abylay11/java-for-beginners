@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 9. Break and continue operators.">
-      <change afterPath="$PROJECT_DIR$/src/lesson11/Arrays.java" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 11. Arrays in Java.">
+      <change afterPath="$PROJECT_DIR$/src/lesson12/Arrays_of_Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Arrays.executor": "Run",
+    "Application.Arrays_of_Strings.executor": "Run",
     "Application.Break_Continue.executor": "Run",
     "Application.DoWhile.executor": "Run",
     "Application.ForLoop.executor": "Run",
@@ -96,7 +97,7 @@
       <updated>1703951097392</updated>
       <workItem from="1703951098393" duration="1182000" />
       <workItem from="1704020851384" duration="7533000" />
-      <workItem from="1704066501351" duration="1950000" />
+      <workItem from="1704066501351" duration="3069000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <option name="closed" value="true" />
@@ -194,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704032644500</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Lesson 11. Arrays in Java.">
+      <option name="closed" value="true" />
+      <created>1704068485053</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704068485053</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -224,6 +233,7 @@
     <MESSAGE value="Lesson 7. Data entry. Class Scanner." />
     <MESSAGE value="Lesson 8. 'Do while' loop." />
     <MESSAGE value="Lesson 9. Break and continue operators." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 9. Break and continue operators." />
+    <MESSAGE value="Lesson 11. Arrays in Java." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 11. Arrays in Java." />
   </component>
 </project>
