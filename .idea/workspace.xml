@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 13. Multidimensional arrays.">
-      <change afterPath="$PROJECT_DIR$/src/lesson14/ClassesAndObjects.java" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 14. Classes and objects.">
+      <change afterPath="$PROJECT_DIR$/src/lesson15/ClassesAndObjects.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +99,7 @@
       <updated>1703951097392</updated>
       <workItem from="1703951098393" duration="1182000" />
       <workItem from="1704020851384" duration="7533000" />
-      <workItem from="1704066501351" duration="5040000" />
+      <workItem from="1704066501351" duration="5762000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <option name="closed" value="true" />
@@ -221,7 +221,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704071218952</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Lesson 14. Classes and objects.">
+      <option name="closed" value="true" />
+      <created>1704072378771</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704072378771</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +262,7 @@
     <MESSAGE value="Lesson 11. Arrays in Java." />
     <MESSAGE value="Lesson 12. Loop for each. Arrays of strings." />
     <MESSAGE value="Lesson 13. Multidimensional arrays." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 13. Multidimensional arrays." />
+    <MESSAGE value="Lesson 14. Classes and objects." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 14. Classes and objects." />
   </component>
 </project>
