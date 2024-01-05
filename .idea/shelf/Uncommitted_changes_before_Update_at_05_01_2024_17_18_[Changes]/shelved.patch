@@ -1,0 +1,129 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"80621aae-b18f-4a10-af8c-5a91a1e90a64\" name=\"Changes\" comment=\"Lesson 15. Methods in Java.\">\r\n      <change afterPath=\"$PROJECT_DIR$/src/lesson17/ClassesAndObjects.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"GitHubPullRequestSearchHistory\">{\r\n  &quot;lastFilter&quot;: {\r\n    &quot;state&quot;: &quot;OPEN&quot;,\r\n    &quot;assignee&quot;: &quot;abylay11&quot;\r\n  }\r\n}</component>\r\n  <component name=\"GithubPullRequestsUISettings\">\r\n    <option name=\"selectedUrlAndAccountId\">\r\n      <UrlAndAccount>\r\n        <option name=\"accountId\" value=\"4a06571b-13a0-4297-a6b0-f3381a596853\" />\r\n        <option name=\"url\" value=\"https://github.com/abylay11/java-for-beginners.git\" />\r\n      </UrlAndAccount>\r\n    </option>\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectColorInfo\">{\r\n  &quot;associatedIndex&quot;: 4\r\n}</component>\r\n  <component name=\"ProjectId\" id=\"2aGi12ypBakbdulha541MubEZEj\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Application.Arrays.executor\": \"Run\",\r\n    \"Application.Arrays_of_Strings.executor\": \"Run\",\r\n    \"Application.Break_Continue.executor\": \"Run\",\r\n    \"Application.ClassesAndObjects.executor\": \"Run\",\r\n    \"Application.DoWhile.executor\": \"Run\",\r\n    \"Application.ForLoop.executor\": \"Run\",\r\n    \"Application.HelloWorld.executor\": \"Run\",\r\n    \"Application.If.executor\": \"Run\",\r\n    \"Application.Input.executor\": \"Run\",\r\n    \"Application.Main.executor\": \"Run\",\r\n    \"Application.Multidimensional_Arrays.executor\": \"Run\",\r\n    \"Application.Strings.executor\": \"Run\",\r\n    \"Application.Switch.executor\": \"Run\",\r\n    \"Application.Variables.executor\": \"Run\",\r\n    \"Application.WhileLoops.executor\": \"Run\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"git-widget-placeholder\": \"master\",\r\n    \"ignore.virus.scanning.warn.message\": \"true\",\r\n    \"kotlin-language-version-configured\": \"true\",\r\n    \"last_opened_file_path\": \"C:/Users/abl_2/Desktop/Java/java-for-beginners/src/lesson17\",\r\n    \"node.js.detected.package.eslint\": \"true\",\r\n    \"node.js.detected.package.tslint\": \"true\",\r\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\r\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\r\n    \"nodejs_package_manager_path\": \"npm\",\r\n    \"onboarding.tips.debug.path\": \"C:/Users/abl_2/Desktop/Java/java-for-beginners/src/Main.java\",\r\n    \"settings.editor.selected.configurable\": \"preferences.lookFeel\",\r\n    \"vue.rearranger.settings.migration\": \"true\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"CopyFile.RECENT_KEYS\">\r\n      <recent name=\"C:\\Users\\abl_2\\Desktop\\Java\\java-for-beginners\\src\\lesson17\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"80621aae-b18f-4a10-af8c-5a91a1e90a64\" name=\"Changes\" comment=\"\" />\r\n      <created>1703951097392</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1703951097392</updated>\r\n      <workItem from=\"1703951098393\" duration=\"1182000\" />\r\n      <workItem from=\"1704020851384\" duration=\"7533000\" />\r\n      <workItem from=\"1704066501351\" duration=\"6421000\" />\r\n      <workItem from=\"1704297573160\" duration=\"2234000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"First commit.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1703951262302</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1703951262302</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00002\" summary=\"Add README.md\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1703951374733</created>\r\n      <option name=\"number\" value=\"00002\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1703951374733</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00003\" summary=\"Update README.md\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1703951672500</created>\r\n      <option name=\"number\" value=\"00003\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1703951672500</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00004\" summary=\"Lesson 1. JDK and Hello world.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704021416027</created>\r\n      <option name=\"number\" value=\"00004\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704021416027</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00005\" summary=\"Lesson 2. Variables and primitive data types.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704022541981</created>\r\n      <option name=\"number\" value=\"00005\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704022541981</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00006\" summary=\"Lesson 3. Strings in Java. Reference data types.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704023123696</created>\r\n      <option name=\"number\" value=\"00006\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704023123696</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00007\" summary=\"Lesson 4. While loop in Java.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704024922229</created>\r\n      <option name=\"number\" value=\"00007\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704024922229</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00008\" summary=\"Lesson 5. For loop in Java.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704027676357</created>\r\n      <option name=\"number\" value=\"00008\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704027676357</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00009\" summary=\"Lesson 6. Conditional if statement.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704028068968</created>\r\n      <option name=\"number\" value=\"00009\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704028068968</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00010\" summary=\"Lesson 7. Data entry. Class Scanner.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704028744861</created>\r\n      <option name=\"number\" value=\"00010\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704028744861</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00011\" summary=\"Lesson 8. 'Do while' loop.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704032149318</created>\r\n      <option name=\"number\" value=\"00011\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704032149318</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00012\" summary=\"Lesson 9. Break and continue operators.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704032644500</created>\r\n      <option name=\"number\" value=\"00012\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704032644500</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00013\" summary=\"Lesson 11. Arrays in Java.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704068485053</created>\r\n      <option name=\"number\" value=\"00013\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00013\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704068485053</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00014\" summary=\"Lesson 12. Loop for each. Arrays of strings.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704070404511</created>\r\n      <option name=\"number\" value=\"00014\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00014\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704070404511</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00015\" summary=\"Lesson 13. Multidimensional arrays.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704071218952</created>\r\n      <option name=\"number\" value=\"00015\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00015\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704071218952</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00016\" summary=\"Lesson 14. Classes and objects.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704072378771</created>\r\n      <option name=\"number\" value=\"00016\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00016\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704072378771</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00017\" summary=\"Lesson 15. Methods in Java.\">\r\n      <option name=\"closed\" value=\"true\" />\r\n      <created>1704073087960</created>\r\n      <option name=\"number\" value=\"00017\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00017\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1704073087960</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"18\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"First commit.\" />\r\n    <MESSAGE value=\"Add README.md\" />\r\n    <MESSAGE value=\"Update README.md\" />\r\n    <MESSAGE value=\"Lesson 1. JDK and Hello world.\" />\r\n    <MESSAGE value=\"Lesson 2. Variables and primitive data types.\" />\r\n    <MESSAGE value=\"Lesson 3. Strings in Java. Reference data types.\" />\r\n    <MESSAGE value=\"Lesson 4. While loop in Java.\" />\r\n    <MESSAGE value=\"Lesson 5. For loop in Java.\" />\r\n    <MESSAGE value=\"Lesson 6. Conditional if statement.\" />\r\n    <MESSAGE value=\"Lesson 7. Data entry. Class Scanner.\" />\r\n    <MESSAGE value=\"Lesson 8. 'Do while' loop.\" />\r\n    <MESSAGE value=\"Lesson 9. Break and continue operators.\" />\r\n    <MESSAGE value=\"Lesson 11. Arrays in Java.\" />\r\n    <MESSAGE value=\"Lesson 12. Loop for each. Arrays of strings.\" />\r\n    <MESSAGE value=\"Lesson 13. Multidimensional arrays.\" />\r\n    <MESSAGE value=\"Lesson 14. Classes and objects.\" />\r\n    <MESSAGE value=\"Lesson 15. Methods in Java.\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Lesson 15. Methods in Java.\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 385fb1af048c387ac8b16c0eec204277cce9b8e7)
++++ b/.idea/workspace.xml	(date 1704457031446)
+@@ -4,8 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 15. Methods in Java.">
+-      <change afterPath="$PROJECT_DIR$/src/lesson17/ClassesAndObjects.java" afterDir="false" />
++    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 17. Method params.">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+@@ -51,39 +50,39 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.Arrays.executor": "Run",
+-    "Application.Arrays_of_Strings.executor": "Run",
+-    "Application.Break_Continue.executor": "Run",
+-    "Application.ClassesAndObjects.executor": "Run",
+-    "Application.DoWhile.executor": "Run",
+-    "Application.ForLoop.executor": "Run",
+-    "Application.HelloWorld.executor": "Run",
+-    "Application.If.executor": "Run",
+-    "Application.Input.executor": "Run",
+-    "Application.Main.executor": "Run",
+-    "Application.Multidimensional_Arrays.executor": "Run",
+-    "Application.Strings.executor": "Run",
+-    "Application.Switch.executor": "Run",
+-    "Application.Variables.executor": "Run",
+-    "Application.WhileLoops.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "master",
+-    "ignore.virus.scanning.warn.message": "true",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "C:/Users/abl_2/Desktop/Java/java-for-beginners/src/lesson17",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "nodejs_package_manager_path": "npm",
+-    "onboarding.tips.debug.path": "C:/Users/abl_2/Desktop/Java/java-for-beginners/src/Main.java",
+-    "settings.editor.selected.configurable": "preferences.lookFeel",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.Arrays.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Arrays_of_Strings.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Break_Continue.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ClassesAndObjects.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DoWhile.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ForLoop.executor&quot;: &quot;Run&quot;,
++    &quot;Application.HelloWorld.executor&quot;: &quot;Run&quot;,
++    &quot;Application.If.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Input.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Multidimensional_Arrays.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Switch.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Variables.executor&quot;: &quot;Run&quot;,
++    &quot;Application.WhileLoops.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
++    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/abl_2/Desktop/Java/java-for-beginners/src/lesson17&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
++    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/abl_2/Desktop/Java/java-for-beginners/src/Main.java&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\abl_2\Desktop\Java\java-for-beginners\src\lesson17" />
+@@ -100,7 +99,8 @@
+       <workItem from="1703951098393" duration="1182000" />
+       <workItem from="1704020851384" duration="7533000" />
+       <workItem from="1704066501351" duration="6421000" />
+-      <workItem from="1704297573160" duration="2234000" />
++      <workItem from="1704297573160" duration="3109000" />
++      <workItem from="1704457009239" duration="23000" />
+     </task>
+     <task id="LOCAL-00001" summary="First commit.">
+       <option name="closed" value="true" />
+@@ -238,7 +238,15 @@
+       <option name="project" value="LOCAL" />
+       <updated>1704073087960</updated>
+     </task>
+-    <option name="localTasksCounter" value="18" />
++    <task id="LOCAL-00018" summary="Lesson 17. Method params.">
++      <option name="closed" value="true" />
++      <created>1704300206976</created>
++      <option name="number" value="00018" />
++      <option name="presentableId" value="LOCAL-00018" />
++      <option name="project" value="LOCAL" />
++      <updated>1704300206976</updated>
++    </task>
++    <option name="localTasksCounter" value="19" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -273,6 +281,7 @@
+     <MESSAGE value="Lesson 13. Multidimensional arrays." />
+     <MESSAGE value="Lesson 14. Classes and objects." />
+     <MESSAGE value="Lesson 15. Methods in Java." />
+-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 15. Methods in Java." />
++    <MESSAGE value="Lesson 17. Method params." />
++    <option name="LAST_COMMIT_MESSAGE" value="Lesson 17. Method params." />
+   </component>
+ </project>
+\ No newline at end of file
