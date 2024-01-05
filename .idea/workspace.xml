@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 15. Methods in Java.">
-      <change afterPath="$PROJECT_DIR$/src/lesson19/Lesson19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_01_2024__14_50__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_05_01_2024__14_50__Changes_.xml" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 19: The keyword is this.">
+      <change afterPath="$PROJECT_DIR$/src/lesson20/Lesson20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +63,7 @@
     "Application.If.executor": "Run",
     "Application.Input.executor": "Run",
     "Application.Lesson19.executor": "Run",
+    "Application.Lesson20.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Multidimensional_Arrays.executor": "Run",
     "Application.Strings.executor": "Run",
@@ -240,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704073087960</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Lesson 19: The keyword is this.">
+      <option name="closed" value="true" />
+      <created>1704457851300</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704457851300</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,6 +283,7 @@
     <MESSAGE value="Lesson 13. Multidimensional arrays." />
     <MESSAGE value="Lesson 14. Classes and objects." />
     <MESSAGE value="Lesson 15. Methods in Java." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 15. Methods in Java." />
+    <MESSAGE value="Lesson 19: The keyword is this." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 19: The keyword is this." />
   </component>
 </project>
