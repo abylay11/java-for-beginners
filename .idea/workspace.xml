@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 23: Formatting strings in Java.">
-      <change afterPath="$PROJECT_DIR$/src/lesson24/Lesson24.java" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 24: The 'Object' class and toString() methods.">
+      <change afterPath="$PROJECT_DIR$/src/lesson25/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson25/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson25/Lesson25.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -68,6 +70,7 @@
     "Application.Lesson22.executor": "Run",
     "Application.Lesson23.executor": "Run",
     "Application.Lesson24.executor": "Run",
+    "Application.Lesson25.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Multidimensional_Arrays.executor": "Run",
     "Application.Strings.executor": "Run",
@@ -311,7 +314,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704802251428</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Lesson 24: The 'Object' class and toString() methods.">
+      <option name="closed" value="true" />
+      <created>1704803637472</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1704803637472</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,6 +367,7 @@
     <MESSAGE value="Lesson 20: Constructors" />
     <MESSAGE value="Lesson 22: The 'final' keyword in Java." />
     <MESSAGE value="Lesson 23: Formatting strings in Java." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 23: Formatting strings in Java." />
+    <MESSAGE value="Lesson 24: The 'Object' class and toString() methods." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 24: The 'Object' class and toString() methods." />
   </component>
 </project>
