@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 24: The 'Object' class and toString() methods.">
-      <change afterPath="$PROJECT_DIR$/src/lesson25/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson25/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson25/Lesson25.java" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 25: Inheritance in Java.">
+      <change afterPath="$PROJECT_DIR$/src/lesson26/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson26/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson26/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson26/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -75,6 +77,7 @@
     "Application.Multidimensional_Arrays.executor": "Run",
     "Application.Strings.executor": "Run",
     "Application.Switch.executor": "Run",
+    "Application.Test.executor": "Run",
     "Application.Variables.executor": "Run",
     "Application.WhileLoops.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -322,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704803637472</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Lesson 25: Inheritance in Java.">
+      <option name="closed" value="true" />
+      <created>1704805155784</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1704805155784</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,6 +379,7 @@
     <MESSAGE value="Lesson 22: The 'final' keyword in Java." />
     <MESSAGE value="Lesson 23: Formatting strings in Java." />
     <MESSAGE value="Lesson 24: The 'Object' class and toString() methods." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 24: The 'Object' class and toString() methods." />
+    <MESSAGE value="Lesson 25: Inheritance in Java." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 25: Inheritance in Java." />
   </component>
 </project>
