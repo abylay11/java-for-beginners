@@ -2,6 +2,7 @@ package lesson23;
 
 public class Lesson23 {
 
+/*
     public static void main(String[] args) {
         // Lesson 23
         // StringBuilder
@@ -30,6 +31,29 @@ public class Lesson23 {
         sb.append("Kotlin\n").append("Switch\n").append("JavaScript\n");
 
         System.out.println("String builder - " + sb);
+    }
+ */
+
+    public static void main(String[] args) {
+        // Lesson 23(continue)
+        // Форматирование сторок в Java
+
+        System.out.printf("Some string: %s\n", "Hello world!");
+        System.out.printf("Some digit: %d\n", 10);
+        System.out.printf("Some float: %f\n", 12.1312);
+
+        System.out.println("---");
+
+        System.out.printf("Some string: %15s\n", "Hello!");
+        System.out.printf("Some digit: %15d\n", 10);
+        System.out.printf("Some float: %15f\n", 12.1312);
+
+        System.out.println("---");
+
+        System.out.printf("Some float: %15.2f\n", 145.5635);
+        System.out.printf("Some float: %15.2f\n", 4.43456);
+        System.out.printf("Some float: %15.2f\n", 12.1312);
+
     }
 
 }
