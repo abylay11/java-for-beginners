@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 20: Constructors">
-      <change afterPath="$PROJECT_DIR$/src/lesson21/Lesson21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson22/Lesson22.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +65,7 @@
     "Application.Lesson19.executor": "Run",
     "Application.Lesson20.executor": "Run",
     "Application.Lesson21.executor": "Run",
+    "Application.Lesson22.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Multidimensional_Arrays.executor": "Run",
     "Application.Strings.executor": "Run",
