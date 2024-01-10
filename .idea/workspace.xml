@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 34: Wildcards (Generics).">
-      <change afterPath="$PROJECT_DIR$/src/lesson35/Test.java" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 35: Anonymous Classes">
+      <change afterPath="$PROJECT_DIR$/src/lesson36/ReadingFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson36/text" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +76,7 @@
     &quot;Application.Lesson25.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
     &quot;Application.Multidimensional_Arrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReadingFromFile.executor&quot;: &quot;Run&quot;,
     &quot;Application.Strings.executor&quot;: &quot;Run&quot;,
     &quot;Application.Switch.executor&quot;: &quot;Run&quot;,
     &quot;Application.Test.executor&quot;: &quot;Run&quot;,
@@ -150,7 +152,8 @@
       <workItem from="1704728895649" duration="4396000" />
       <workItem from="1704808104723" duration="1450000" />
       <workItem from="1704834977380" duration="4968000" />
-      <workItem from="1704850725166" duration="3118000" />
+      <workItem from="1704850725166" duration="4135000" />
+      <workItem from="1704879754209" duration="938000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <option name="closed" value="true" />
@@ -408,7 +411,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704853494398</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Lesson 35: Anonymous Classes">
+      <option name="closed" value="true" />
+      <created>1704854166906</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1704854166906</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -432,7 +443,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lesson 5. For loop in Java." />
     <MESSAGE value="Lesson 6. Conditional if statement." />
     <MESSAGE value="Lesson 7. Data entry. Class Scanner." />
     <MESSAGE value="Lesson 8. 'Do while' loop." />
@@ -457,6 +467,7 @@
     <MESSAGE value="Lesson 32: Upcasting and downcasting transformation in Java." />
     <MESSAGE value="Lesson 33: Introduction to Parameterization. Generics." />
     <MESSAGE value="Lesson 34: Wildcards (Generics)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 34: Wildcards (Generics)." />
+    <MESSAGE value="Lesson 35: Anonymous Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 35: Anonymous Classes" />
   </component>
 </project>
