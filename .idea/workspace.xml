@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 36: Reading from file in Java.">
-      <change afterPath="$PROJECT_DIR$/src/lesson37/Exceptions1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson37/testFile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson38/Exceptions2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson38/ScannerException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +64,7 @@
     "Application.ClassesAndObjects.executor": "Run",
     "Application.DoWhile.executor": "Run",
     "Application.Exceptions1.executor": "Run",
+    "Application.Exceptions2.executor": "Run",
     "Application.ForLoop.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.If.executor": "Run",
