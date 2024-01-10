@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 30: Casting primitive data types.">
-      <change afterPath="$PROJECT_DIR$/src/lesson31/Test.java" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 31: Wrapper classes of primitive data types.">
+      <change afterPath="$PROJECT_DIR$/src/lesson32/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson32/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson32/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -149,7 +151,8 @@
       <workItem from="1704297573160" duration="2234000" />
       <workItem from="1704728895649" duration="4396000" />
       <workItem from="1704808104723" duration="1450000" />
-      <workItem from="1704834977380" duration="4140000" />
+      <workItem from="1704834977380" duration="4968000" />
+      <workItem from="1704850725166" duration="634000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <option name="closed" value="true" />
@@ -375,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704838756088</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Lesson 31: Wrapper classes of primitive data types.">
+      <option name="closed" value="true" />
+      <created>1704839345451</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1704839345451</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,7 +410,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lesson 1. JDK and Hello world." />
     <MESSAGE value="Lesson 2. Variables and primitive data types." />
     <MESSAGE value="Lesson 3. Strings in Java. Reference data types." />
     <MESSAGE value="Lesson 4. While loop in Java." />
@@ -424,6 +434,7 @@
     <MESSAGE value="Lesson 28: Access modifiers public, private, protected and default in Java." />
     <MESSAGE value="Lesson 29: Polymorphism in Java." />
     <MESSAGE value="Lesson 30: Casting primitive data types." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 30: Casting primitive data types." />
+    <MESSAGE value="Lesson 31: Wrapper classes of primitive data types." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 31: Wrapper classes of primitive data types." />
   </component>
 </project>
