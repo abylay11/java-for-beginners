@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 36: Reading from file in Java.">
-      <change afterPath="$PROJECT_DIR$/src/lesson38/Exceptions2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson38/ScannerException.java" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 38: Exceptions (Part 2). Throwing exceptions.">
+      <change afterPath="$PROJECT_DIR$/src/lesson39/Exceptions3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,6 +64,7 @@
     "Application.DoWhile.executor": "Run",
     "Application.Exceptions1.executor": "Run",
     "Application.Exceptions2.executor": "Run",
+    "Application.Exceptions3.executor": "Run",
     "Application.ForLoop.executor": "Run",
     "Application.HelloWorld.executor": "Run",
     "Application.If.executor": "Run",
@@ -429,7 +429,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704880902898</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Lesson 38: Exceptions (Part 2). Throwing exceptions.">
+      <option name="closed" value="true" />
+      <created>1704905248959</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1704905248959</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -453,7 +461,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lesson 7. Data entry. Class Scanner." />
     <MESSAGE value="Lesson 8. 'Do while' loop." />
     <MESSAGE value="Lesson 9. Break and continue operators." />
     <MESSAGE value="Lesson 11. Arrays in Java." />
@@ -478,6 +485,7 @@
     <MESSAGE value="Lesson 34: Wildcards (Generics)." />
     <MESSAGE value="Lesson 35: Anonymous Classes" />
     <MESSAGE value="Lesson 36: Reading from file in Java." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 36: Reading from file in Java." />
+    <MESSAGE value="Lesson 38: Exceptions (Part 2). Throwing exceptions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 38: Exceptions (Part 2). Throwing exceptions." />
   </component>
 </project>
