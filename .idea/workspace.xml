@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 38: Exceptions (Part 2). Throwing exceptions.">
-      <change afterPath="$PROJECT_DIR$/src/lesson40/Exceptions4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_01_2024__21_33__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_10_01_2024__21_33__Changes_.xml" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 40: Exceptions (Part 4).">
+      <change afterPath="$PROJECT_DIR$/src/lesson41/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson41/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson41/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson41/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +108,7 @@
       <recent name="C:\Users\abl_2\Desktop\Java\java-for-beginners\src\lesson17" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lesson21">
+  <component name="RunManager">
     <configuration name="Lesson21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lesson21.Lesson21" />
       <module name="java-for-beginners" />
@@ -438,7 +440,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704905248959</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Lesson 40: Exceptions (Part 4).">
+      <option name="closed" value="true" />
+      <created>1704934594264</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1704934594264</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,7 +472,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lesson 8. 'Do while' loop." />
     <MESSAGE value="Lesson 9. Break and continue operators." />
     <MESSAGE value="Lesson 11. Arrays in Java." />
     <MESSAGE value="Lesson 12. Loop for each. Arrays of strings." />
@@ -487,6 +496,7 @@
     <MESSAGE value="Lesson 35: Anonymous Classes" />
     <MESSAGE value="Lesson 36: Reading from file in Java." />
     <MESSAGE value="Lesson 38: Exceptions (Part 2). Throwing exceptions." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 38: Exceptions (Part 2). Throwing exceptions." />
+    <MESSAGE value="Lesson 40: Exceptions (Part 4)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 40: Exceptions (Part 4)." />
   </component>
 </project>
