@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 41: Abstract classes.">
-      <change afterPath="$PROJECT_DIR$/src/lesson42/Test.java" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 42: Method equals(), String Pool in Java.">
+      <change afterPath="$PROJECT_DIR$/src/lesson43/ElectorCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson43/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,6 +157,7 @@
       <workItem from="1704834977380" duration="4968000" />
       <workItem from="1704850725166" duration="4135000" />
       <workItem from="1704879754209" duration="2402000" />
+      <workItem from="1704941190037" duration="680000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <option name="closed" value="true" />
@@ -453,7 +455,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704935636607</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Lesson 42: Method equals(), String Pool in Java.">
+      <option name="closed" value="true" />
+      <created>1704936786743</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1704936786743</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -477,7 +487,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lesson 11. Arrays in Java." />
     <MESSAGE value="Lesson 12. Loop for each. Arrays of strings." />
     <MESSAGE value="Lesson 13. Multidimensional arrays." />
     <MESSAGE value="Lesson 14. Classes and objects." />
@@ -502,6 +511,7 @@
     <MESSAGE value="Lesson 38: Exceptions (Part 2). Throwing exceptions." />
     <MESSAGE value="Lesson 40: Exceptions (Part 4)." />
     <MESSAGE value="Lesson 41: Abstract classes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 41: Abstract classes." />
+    <MESSAGE value="Lesson 42: Method equals(), String Pool in Java." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 42: Method equals(), String Pool in Java." />
   </component>
 </project>
