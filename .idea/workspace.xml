@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 43: Nested classes in Java." />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 44: Write to file string data.">
+      <change afterPath="$PROJECT_DIR$/src/lesson45/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson45/ReadObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson45/WriteObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson45/people.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,6 +87,8 @@
     &quot;Application.Test.executor&quot;: &quot;Run&quot;,
     &quot;Application.Variables.executor&quot;: &quot;Run&quot;,
     &quot;Application.WhileLoops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WriteObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WriteToFile.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -153,7 +161,8 @@
       <workItem from="1704834977380" duration="4968000" />
       <workItem from="1704850725166" duration="4135000" />
       <workItem from="1704879754209" duration="2402000" />
-      <workItem from="1704941190037" duration="999000" />
+      <workItem from="1704941190037" duration="3132000" />
+      <workItem from="1704945174679" duration="314000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <option name="closed" value="true" />
@@ -467,7 +476,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704942110750</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Lesson 44: Write to file string data.">
+      <option name="closed" value="true" />
+      <created>1704942490878</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1704942490878</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -491,7 +508,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lesson 13. Multidimensional arrays." />
     <MESSAGE value="Lesson 14. Classes and objects." />
     <MESSAGE value="Lesson 15. Methods in Java." />
     <MESSAGE value="Lesson 19: The keyword is this." />
@@ -516,6 +532,7 @@
     <MESSAGE value="Lesson 41: Abstract classes." />
     <MESSAGE value="Lesson 42: Method equals(), String Pool in Java." />
     <MESSAGE value="Lesson 43: Nested classes in Java." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 43: Nested classes in Java." />
+    <MESSAGE value="Lesson 44: Write to file string data." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 44: Write to file string data." />
   </component>
 </project>
