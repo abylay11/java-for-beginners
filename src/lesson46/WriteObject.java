@@ -13,7 +13,7 @@ public class WriteObject {
         };
 
         try {
-            FileOutputStream fos = new FileOutputStream("src/lesson45/people.bin");
+            FileOutputStream fos = new FileOutputStream("src/lesson46/people.bin");
             ObjectOutputStream oos = new ObjectOutputStream(fos);
 
 //            oos.writeInt(peoples.length);

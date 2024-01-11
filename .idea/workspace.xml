@@ -4,14 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 45: Serialization (Part 1).">
-      <change afterPath="$PROJECT_DIR$/src/lesson46/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson46/ReadObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson46/WriteObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lesson46/people.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="80621aae-b18f-4a10-af8c-5a91a1e90a64" name="Changes" comment="Lesson 4: Serialization (Part 2). Arrays serialization.">
+      <change afterPath="$PROJECT_DIR$/src/lesson47/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson47/ReadObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson47/WriteObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lesson47/people.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lesson45/people.bin" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson45/people.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lesson46/WriteObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lesson46/WriteObject.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,19 +96,20 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/abl_2/Desktop/Java/java-for-beginners/src/lesson46",
+    "last_opened_file_path": "C:/Users/abl_2/Desktop/Java/java-for-beginners/src/lesson47",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "onboarding.tips.debug.path": "C:/Users/abl_2/Desktop/Java/java-for-beginners/src/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "Errors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abl_2\Desktop\Java\java-for-beginners\src\lesson47" />
       <recent name="C:\Users\abl_2\Desktop\Java\java-for-beginners\src\lesson46" />
       <recent name="C:\Users\abl_2\Desktop\Java\java-for-beginners\src\lesson17" />
     </key>
@@ -166,7 +166,7 @@
       <workItem from="1704850725166" duration="4135000" />
       <workItem from="1704879754209" duration="2402000" />
       <workItem from="1704941190037" duration="3132000" />
-      <workItem from="1704945174679" duration="1549000" />
+      <workItem from="1704945174679" duration="3458000" />
     </task>
     <task id="LOCAL-00001" summary="First commit.">
       <option name="closed" value="true" />
@@ -496,7 +496,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704945716003</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Lesson 4: Serialization (Part 2). Arrays serialization.">
+      <option name="closed" value="true" />
+      <created>1704946921479</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1704946921479</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -520,7 +528,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lesson 15. Methods in Java." />
     <MESSAGE value="Lesson 19: The keyword is this." />
     <MESSAGE value="Lesson 20: Constructors" />
     <MESSAGE value="Lesson 22: The 'final' keyword in Java." />
@@ -545,6 +552,7 @@
     <MESSAGE value="Lesson 43: Nested classes in Java." />
     <MESSAGE value="Lesson 44: Write to file string data." />
     <MESSAGE value="Lesson 45: Serialization (Part 1)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 45: Serialization (Part 1)." />
+    <MESSAGE value="Lesson 4: Serialization (Part 2). Arrays serialization." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 4: Serialization (Part 2). Arrays serialization." />
   </component>
 </project>
